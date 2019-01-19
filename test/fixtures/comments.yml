@@ -3,11 +3,9 @@
 one:
   author_name: MyString
   body: MyText
-  article: MyString
-  references: MyString
+  article: one
 
 two:
   author_name: MyString
   body: MyText
-  article: MyString
-  references: MyString
+  article: two
